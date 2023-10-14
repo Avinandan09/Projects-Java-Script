@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+button{
+    margin-left: 400px;
+}
+p,h3{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    /* gap: 20px; */
+}

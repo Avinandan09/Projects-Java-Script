@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: gray;
+}
+#timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+    border: 2px solid black;
+    height: 15vw;
+    width: 15vw;
+    font-size: 60px;
+}

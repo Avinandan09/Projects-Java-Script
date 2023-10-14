@@ -1,0 +1,54 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: aqua;
+
+}
+.Main{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    gap: 20px;
+}
+.colors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#first{
+    border: 5px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius:20%;
+    background-color: yellow;
+}
+#second{
+    border: 5px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 20%;
+    background-color: red;
+}
+#third{
+    border: 5px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 20%;
+    background-color: purple;
+}
+#fourth{
+    border: 5px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 20%;
+    background-color: pink;
+}
+#fifth{
+    border: 5px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 20%;
+    background-color: green;
+}
